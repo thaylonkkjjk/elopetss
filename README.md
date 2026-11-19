@@ -115,25 +115,37 @@ Tabela USUARIO
 - telefone
 - created_at
 
-Tabela ONG
-- id
-- nome
-- cnpj
-- endereco
-- telefone
-- email
-- usuario_id
+Tabela ong
+Informações Básicas
+• Nome da ONG 
+• Descrição 
+Credenciais de Acesso
+• Nome do Responsável 
+• E-mail 
+• Senha 
+• Confirmar Senha 
+Contato
+• Telefone / WhatsApp 
+• Website: 
+• Instagram
+• Chave PIX
+Localização
+• Endereço 
+• Cidade 
+• Estado 
+
 
 Tabela PET
-- id
-- nome
-- especie
-- raca
-- idade
-- porte
-- descricao
-- status
-- ong_id 
+id
+post_id
+nome
+raca
+idade
+sexo
+porte
+cor_pelagem
+vacinado
+castrado
 
 Tabela ADOCAO
 - id 
