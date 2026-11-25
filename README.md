@@ -338,17 +338,16 @@ O sistema trata dados pessoais e, por isso, deve observar a Lei Geral de Proteç
 
 ## 7 INSTALAÇÃO E EXECUÇÃO
 
-**Passo 1. Clonar o repositório**
-
 ```bash
 git clone https://github.com/thaylonkkjjk/elopetss.git
 cd elopetss/ONG-ELOPETS
 ```
-
-**Passo 2. Projeto no Supabase (pendente)**
-
-**Passo 3. Instalar as dependências, compilar e executar (pendente)**
-
+```bash
+Projeto no Supabase (pendente)**
+```
+```bash
+Instalar as dependências, compilar e executar (pendente)
+```
 ---
 
 ## 8 CONSIDERAÇÕES FINAIS
