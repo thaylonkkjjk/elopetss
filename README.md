@@ -360,7 +360,12 @@ cd elopets
 
 ## 8 CONSIDERAÇÕES FINAIS
 
-O EloPets propõe uma solução tecnológica de apoio social, aproximando ONGs de proteção animal de pessoas dispostas a adotar, doar e voluntariar-se. [Descreva aqui os resultados alcançados, as dificuldades encontradas e os próximos passos, com base no que foi de fato desenvolvido e testado.]
+O EloPets propõe uma solução tecnológica de apoio social, aproximando ONGs de proteção animal de pessoas dispostas a adotar, doar e voluntariar-se. Em relação aos objetivos propostos, foram desenvolvidas as funcionalidades de cadastro de usuários e ONGs, divulgação de animais para adoção com filtros, solicitação de adoção, registro de doações e candidatura ao voluntariado.
+A plataforma foi construída em Java, com banco de dados MySQL e interface responsiva, buscando segurança dos dados, bom desempenho e facilidade de uso.
+Durante o desenvolvimento, a equipe encontrou dificuldades como integração entre o sistema e o banco, organização do trabalho em grupo e prazos. Essas dificuldades contribuíram para a formação técnica dos integrantes, que aplicaram na prática conhecimentos adquiridos ao longo do curso, como programação e versionamento com Git.
+Como limitações, como: a ausência de pagamentos reais e a falta de testes com ONGs reais.
+Como trabalhos futuros, sugere-se a implementação de chat em tempo real entre usuários e ONGs, doações via PIX e PagSeguro, geolocalização de ONGs próximas, e aplicativo móvel. Recomenda-se ainda validar a plataforma com ONGs parceiras, para ajustá-la às necessidades reais de quem atua na proteção animal.
+Conclui-se que o EloPets cumpre o objetivo de servir como ponte digital entre ONGs, adotantes, doadores e voluntários, e que tem potencial para ser ampliado e utilizado como ferramenta de impacto social.
 
 ---
 
