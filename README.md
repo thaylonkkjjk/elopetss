@@ -355,6 +355,7 @@ cd elopets
 # src/main/resources/application.properties
 
 # 3. Compilar e executar
+```
 
 ---
 
