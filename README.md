@@ -153,8 +153,6 @@ Muitas ONGs de proteção animal enfrentam dificuldades relacionadas à falta de
 - doações via PIX / PagSeguro;
 - geolocalização de ONGs próximas;
 - aplicativo móvel;
-- gamificação para voluntários;
-- relatórios e *dashboards* analíticos.
 
 ---
 
