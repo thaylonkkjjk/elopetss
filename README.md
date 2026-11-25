@@ -6,11 +6,11 @@ Habilitação profissional: Técnico em Desenvolvimento de Sistemas
 
 <br>
 
-**EDUARDO SOUZA**
-**THAYLON**
-**TAMIRES**
-**MATHEUS DIAS**
-**DIEGO**
+**EDUARDO SOUZA,**
+**THAYLON,**
+**TAMIRES,**
+**MATHEUS DIAS,**
+**DIEGO.**
 
 <br><br>
 
