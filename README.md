@@ -367,5 +367,3 @@ O EloPets propõe uma solução tecnológica de apoio social, aproximando ONGs d
 ## REFERÊNCIAS
 
 BRASIL. **Lei nº 13.709, de 14 de agosto de 2018.** Lei Geral de Proteção de Dados Pessoais (LGPD). Brasília, DF: Presidência da República, 2018.
-
-[ADICIONAR as demais referências utilizadas no projeto (livros, documentação do Java e do MySQL, artigos etc.), no formato da ABNT NBR 6023.]
