@@ -346,7 +346,7 @@ O sistema trata dados pessoais e, por isso, deve observar a Lei Geral de Proteç
 ## 7 INSTALAÇÃO E EXECUÇÃO
 
 ```bash
-git clone [https://github.com/[USUARIO]/elopets.git](https://github.com/thaylonkkjjk/elopetss/tree/main/ONG-ELOPETS)
+git clone (https://github.com/thaylonkkjjk/elopetss/tree/main/ONG-ELOPETS)
 cd elopets
 ```
 
