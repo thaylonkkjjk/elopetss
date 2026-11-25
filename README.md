@@ -346,15 +346,15 @@ O sistema trata dados pessoais e, por isso, deve observar a Lei Geral de Proteç
 ## 7 INSTALAÇÃO E EXECUÇÃO
 
 ```bash
-git clone https://github.com/thaylonkkjjk/elopetss/tree/main/ONG-ELOPETS
+git clone https://github.com/[USUARIO]/elopets.git
 cd elopets
+```
 
-# 1. importar o script do Banco de Dados (pendente)
+**Passo 2. Configurar as credenciais**
+Edite o arquivo `src/main/resources/application.properties` com o endereço, o usuário e a senha do seu MySQL.
 
-# 2. Configurar as credenciais (exemplo)
-# src/main/resources/application.properties
-
-# 3. Compilar e executar
+```bash
+[COMANDO DE BUILD/EXECUÇÃO]
 ```
 
 ---
