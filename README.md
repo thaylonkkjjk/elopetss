@@ -338,8 +338,6 @@ O sistema trata dados pessoais e, por isso, deve observar a Lei Geral de Proteç
 
 ## 7 INSTALAÇÃO E EXECUÇÃO
 
-> Complete os trechos entre [colchetes] conforme a estrutura final do repositório.
-
 **Passo 1. Clonar o repositório**
 
 ```bash
