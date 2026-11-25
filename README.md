@@ -346,15 +346,8 @@ O sistema trata dados pessoais e, por isso, deve observar a Lei Geral de Proteç
 ## 7 INSTALAÇÃO E EXECUÇÃO
 
 ```bash
-git clone https://github.com/[USUARIO]/elopets.git
+git clone [https://github.com/[USUARIO]/elopets.git](https://github.com/thaylonkkjjk/elopetss/tree/main/ONG-ELOPETS)
 cd elopets
-```
-
-**Passo 2. Configurar as credenciais**
-Edite o arquivo `src/main/resources/application.properties` com o endereço, o usuário e a senha do seu MySQL.
-
-```bash
-[COMANDO DE BUILD/EXECUÇÃO]
 ```
 
 ---
