@@ -14,19 +14,6 @@ Habilitação profissional: Técnico em Desenvolvimento de Sistemas
 
 <br><br>
 
-# ELOPETS
-
-**Plataforma web para ONGs de proteção animal**
-
-<br><br>
-
-São Paulo
-2026
-
-</div>
-
----
-
 <div align="center">
 
 # ELOPETS
