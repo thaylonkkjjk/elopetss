@@ -28,6 +28,34 @@ O sistema trabalha com as seguintes categorias de informações:
 | Denúncias | Registros de denúncias realizadas pelos visitantes. |
 | Administração | Informações relacionadas ao gerenciamento e à moderação da plataforma. |
 
+### 3.1. Tabelas do banco de dados
+
+O Mundo ONG utiliza as seguintes tabelas para organizar e gerenciar suas informações:
+
+| Nome da tabela | Finalidade |
+|---|---|
+| `ongs_pending` | Armazena os cadastros de ONGs que aguardam aprovação. |
+| `ongs_approved` | Armazena as informações das ONGs aprovadas. |
+| `ong_posts` | Armazena as publicações de adoção e pedidos de ajuda. |
+| `ong_contact_methods` | Armazena as formas de contato das organizações. |
+| `post_reports` | Armazena as denúncias de publicações. |
+| `post_history` | Registra o histórico de publicações. |
+| `admin_users` | Armazena os registros dos usuários administrativos. |
+| `admin_logs` | Registra as ações realizadas pelos administradores. |
+| `login_history` | Registra o histórico de acessos. |
+
+### 3.2. Armazenamento de imagens
+
+Além do banco de dados relacional, o Mundo ONG utiliza o Supabase Storage para o armazenamento de imagens.
+
+O sistema utiliza um bucket denominado `elopets-images`.
+
+Um bucket é um espaço destinado ao armazenamento de arquivos, permitindo organizar e disponibilizar imagens utilizadas pela aplicação.
+
+Ao configurar uma nova instância do Supabase, será necessário criar esse bucket e configurar suas permissões de acesso de acordo com as necessidades do sistema.
+
+O nome do bucket deve ser mantido para garantir a compatibilidade com a aplicação.
+
 ## 4. Configuração do banco de dados
 
 1. Acesse https://supabase.com/.
