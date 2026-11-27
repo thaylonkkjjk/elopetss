@@ -113,3 +113,14 @@ Para garantir a proteção das informações armazenadas, recomenda-se:
 
 - Supabase: https://supabase.com/docs
 - PostgreSQL: https://www.postgresql.org/docs/
+
+---
+
+## Navegação da documentação
+
+- [Página inicial](../README.md)
+- [Guia de instalação](instalacao.md)
+- [Configuração do ambiente](configuracao.md)
+- [Banco de dados](banco-de-dados.md)
+- [Guia do usuário](guia-do-usuario.md)
+- [Solução de problemas](solucao-de-problemas.md)
