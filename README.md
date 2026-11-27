@@ -81,3 +81,18 @@ O Mundo ONG oferece diferentes funcionalidades de acordo com o tipo de usuário:
 - Consultar denúncias realizadas pelos visitantes.
 - Acompanhar o histórico de candidaturas e ações administrativas.
 
+## Impacto social do projeto
+
+O Mundo ONG busca contribuir para a proteção animal ao aproximar organizações não governamentais da comunidade.
+
+Por meio da plataforma, as ONGs podem ampliar a divulgação dos animais disponíveis para adoção e apresentar suas necessidades, facilitando o contato com pessoas dispostas a ajudar.
+
+Entre os principais benefícios esperados estão:
+
+- Incentivar a adoção responsável de animais.
+- Ampliar a visibilidade das ONGs de proteção animal.
+- Facilitar a divulgação de pedidos de ajuda.
+- Aproximar a comunidade das organizações.
+- Incentivar a participação da sociedade na causa animal.
+
+Dessa forma, o projeto utiliza a tecnologia como ferramenta de apoio à conscientização e à proteção dos animais.
