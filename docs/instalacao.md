@@ -100,6 +100,40 @@ Para interromper a execução do sistema, pressione:
 Ctrl + C
 ```
 
+## 11. Verificação do funcionamento
+
+Após concluir a instalação, verifique se o sistema está funcionando corretamente.
+
+- Confirme se o terminal está aberto na pasta que contém o arquivo `package.json`.
+- Verifique se o arquivo `.env` foi configurado corretamente.
+- Confirme se o servidor está em execução.
+- Acesse o endereço local informado no terminal.
+- Verifique se a página inicial é exibida.
+- Acesse as seções de adoção, ajuda e ONGs.
+- Verifique se as informações do banco de dados são carregadas.
+
+## 12. Comandos disponíveis
+
+O projeto disponibiliza os seguintes comandos:
+
+| Comando | Finalidade |
+|---|---|
+| `pnpm install` | Instalar as dependências. |
+| `pnpm dev` | Executar o sistema em modo de desenvolvimento. |
+| `pnpm build` | Gerar a versão de produção. |
+| `pnpm start` | Executar a versão de produção após a compilação, em ambiente compatível. |
+| `pnpm check` | Verificar a existência de erros de tipagem. |
+| `pnpm test` | Executar os testes automatizados disponíveis. |
+
+## 13. Observações importantes
+
+- É necessário possuir conexão com a internet para utilizar os serviços externos.
+- O funcionamento completo depende da configuração correta do Supabase.
+- A criação de um novo banco de dados exige a estrutura original das tabelas e as permissões de armazenamento.
+- A versão recomendada do Node.js deverá ser validada durante a instalação.
+- Em caso de dificuldades, consulte o [guia de solução de problemas](solucao-de-problemas.md).
+
+
 ---
 
 ## Navegação da documentação
