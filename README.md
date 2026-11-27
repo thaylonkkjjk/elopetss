@@ -110,3 +110,13 @@ Entre os resultados esperados estão:
 - Maior conscientização sobre a adoção responsável.
 
 O projeto pretende demonstrar como uma plataforma digital pode ajudar a conectar pessoas e organizações em torno de um objetivo em comum: a proteção animal.
+
+## Considerações finais
+
+O desenvolvimento do Mundo ONG representa uma iniciativa de utilização da tecnologia em benefício da proteção animal.
+
+A plataforma reúne funcionalidades que buscam facilitar a divulgação de animais para adoção, aproximar ONGs da comunidade e ampliar a divulgação de pedidos de ajuda.
+
+Além de apresentar uma solução tecnológica, o projeto reforça a importância da participação coletiva e da conscientização sobre a causa animal.
+
+Conclui-se que o Mundo ONG tem potencial para contribuir com o trabalho das organizações e incentivar mais pessoas a participarem dessa causa.
