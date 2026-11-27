@@ -108,3 +108,14 @@ Suas principais funcionalidades incluem:
 - Não compartilhe senhas de acesso.
 - Respeite os termos de uso e a política de privacidade.
 - Priorize a adoção responsável e o bem-estar animal.
+
+---
+
+## Navegação da documentação
+
+- [Página inicial](../README.md)
+- [Guia de instalação](instalacao.md)
+- [Configuração do ambiente](configuracao.md)
+- [Banco de dados](banco-de-dados.md)
+- [Guia do usuário](guia-do-usuario.md)
+- [Solução de problemas](solucao-de-problemas.md)
