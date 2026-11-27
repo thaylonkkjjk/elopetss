@@ -1,0 +1,87 @@
+# Banco de dados — Mundo ONG
+
+## 1. Visão geral
+
+O Mundo ONG utiliza o PostgreSQL como sistema de gerenciamento de banco de dados, por meio da plataforma Supabase.
+
+O banco de dados é responsável pelo armazenamento e gerenciamento das informações utilizadas pela plataforma.
+
+## 2. Tecnologias utilizadas
+
+### PostgreSQL
+
+Sistema de gerenciamento de banco de dados relacional, responsável pelo armazenamento estruturado das informações.
+
+### Supabase
+
+Plataforma que disponibiliza serviços de banco de dados, armazenamento e integração com aplicações.
+
+## 3. Organização das informações
+
+O sistema trabalha com as seguintes categorias de informações:
+
+| Categoria | Informações |
+|---|---|
+| ONGs | Dados cadastrais, informações de contato e situação do cadastro. |
+| Adoções | Informações dos animais disponíveis para adoção. |
+| Pedidos de ajuda | Publicações relacionadas às necessidades das organizações. |
+| Denúncias | Registros de denúncias realizadas pelos visitantes. |
+| Administração | Informações relacionadas ao gerenciamento e à moderação da plataforma. |
+
+## 4. Configuração do banco de dados
+
+1. Acesse https://supabase.com/.
+2. Realize o login ou crie uma conta.
+3. Clique em New Project.
+4. Defina o nome do projeto.
+5. Crie uma senha segura para o banco de dados.
+6. Selecione a região de hospedagem.
+7. Aguarde a criação do projeto.
+
+## 5. Configuração da estrutura
+
+Para utilizar um novo banco de dados, será necessário reproduzir a estrutura utilizada pelo Mundo ONG.
+
+No painel do Supabase, as ferramentas Table Editor e SQL Editor permitem criar e gerenciar tabelas, campos e relacionamentos.
+
+A estrutura original do banco deverá ser disponibilizada pela equipe responsável pelo desenvolvimento antes da configuração de uma nova instância.
+
+## 6. Conexão com o sistema
+
+Na pasta principal do Mundo ONG, localize o arquivo `.env` criado durante a configuração do ambiente.
+
+Preencha as variáveis de conexão com as credenciais fornecidas pelo Supabase:
+
+```env
+SUPABASE_URL=
+SUPABASE_SERVICE_ROLE_KEY=
+DATABASE_URL=
+```
+
+As credenciais devem pertencer ao projeto de banco de dados autorizado para utilização.
+
+## 7. Verificação da conexão
+
+Após configurar as credenciais e a estrutura do banco de dados, execute:
+
+```bash
+pnpm dev
+```
+
+Acesse a plataforma e verifique se as informações cadastradas são exibidas corretamente.
+
+## 8. Segurança e manutenção
+
+Para garantir a proteção das informações armazenadas, recomenda-se:
+
+- Utilizar senhas fortes.
+- Restringir o acesso administrativo.
+- Realizar backups periódicos.
+- Não compartilhar credenciais de acesso.
+- Não publicar informações privadas no GitHub.
+- Utilizar um banco de dados separado para testes.
+
+## 9. Documentação oficial
+
+- Supabase: https://supabase.com/docs
+- PostgreSQL: https://www.postgresql.org/docs/
