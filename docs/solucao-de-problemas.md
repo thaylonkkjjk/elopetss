@@ -102,3 +102,14 @@ Ao relatar um problema, informe:
 - Mensagem de erro apresentada.
 
 Nunca compartilhe senhas, chaves privadas ou credenciais do banco de dados ao solicitar suporte.
+
+---
+
+## Navegação da documentação
+
+- [Página inicial](../README.md)
+- [Guia de instalação](instalacao.md)
+- [Configuração do ambiente](configuracao.md)
+- [Banco de dados](banco-de-dados.md)
+- [Guia do usuário](guia-do-usuario.md)
+- [Solução de problemas](solucao-de-problemas.md)
