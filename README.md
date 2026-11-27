@@ -11,6 +11,16 @@ A plataforma busca facilitar a divulgação de animais disponíveis para adoçã
 
 Promover a proteção animal por meio da tecnologia, facilitando a comunicação entre ONGs e pessoas interessadas em adotar animais ou ajudar organizações que atuam nessa causa.
 
+## Documentação
+
+A documentação do Mundo ONG foi organizada em guias para facilitar a instalação, configuração e utilização da plataforma.
+
+- [Guia de instalação](docs/instalacao.md)
+- [Configuração do ambiente](docs/configuracao.md)
+- [Banco de dados](docs/banco-de-dados.md)
+- [Guia do usuário](docs/guia-do-usuario.md)
+- [Solução de problemas](docs/solucao-de-problemas.md)
+
 ## Principais funcionalidades
 
 - Divulgação de animais disponíveis para adoção.
