@@ -51,3 +51,33 @@ EE Professor Roldão Lopes de Barros
 Curso Técnico em Desenvolvimento de Sistemas
 
 São Paulo — 2026
+
+## Como a plataforma funciona
+
+O Mundo ONG oferece diferentes funcionalidades de acordo com o tipo de usuário:
+
+### Para visitantes
+
+- Acessar a página de adoção e conhecer os animais disponíveis.
+- Pesquisar animais por nome, raça ou cidade.
+- Consultar pedidos de ajuda publicados pelas ONGs.
+- Visualizar informações e detalhes das organizações cadastradas.
+- Denunciar anúncios que apresentem algum problema.
+
+### Para as ONGs
+
+- Realizar o cadastro da organização na plataforma.
+- Acompanhar o processo de aprovação do cadastro.
+- Acessar o painel de gerenciamento após a aprovação.
+- Criar, editar e excluir publicações.
+- Atualizar informações do perfil e formas de contato.
+
+### Para os administradores
+
+- Analisar solicitações de cadastro de novas ONGs.
+- Aprovar ou rejeitar organizações.
+- Gerenciar ONGs cadastradas.
+- Visualizar e moderar publicações.
+- Consultar denúncias realizadas pelos visitantes.
+- Acompanhar o histórico de candidaturas e ações administrativas.
+
