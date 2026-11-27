@@ -96,3 +96,17 @@ Entre os principais benefícios esperados estão:
 - Incentivar a participação da sociedade na causa animal.
 
 Dessa forma, o projeto utiliza a tecnologia como ferramenta de apoio à conscientização e à proteção dos animais.
+
+## Resultados esperados
+
+Com o desenvolvimento do Mundo ONG, espera-se facilitar a comunicação entre organizações de proteção animal e pessoas interessadas em contribuir com essa causa.
+
+Entre os resultados esperados estão:
+
+- Maior divulgação dos animais disponíveis para adoção.
+- Mais facilidade para encontrar ONGs e conhecer seu trabalho.
+- Melhor divulgação das necessidades das organizações.
+- Incentivo à participação da comunidade em ações de proteção animal.
+- Maior conscientização sobre a adoção responsável.
+
+O projeto pretende demonstrar como uma plataforma digital pode ajudar a conectar pessoas e organizações em torno de um objetivo em comum: a proteção animal.
